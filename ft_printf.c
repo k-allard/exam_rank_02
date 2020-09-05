@@ -175,7 +175,7 @@ int ft_printf(const char *str, ... )
 	return (g_result);
 }
 
-/* delete before upload */
+/* not a part of assignment */
 
 #include <stdio.h>
 
